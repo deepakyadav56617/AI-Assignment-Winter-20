@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int floor(int A[], float x)
-{
+{sddf
     if(x>=0)
     {
         x=(int)(x);
